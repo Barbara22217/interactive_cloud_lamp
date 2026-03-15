@@ -1,5 +1,5 @@
-# interactive_cloud_lamp
-Interactive Arduino cloud lamp with programmable LED lighting
+# Interactive Cloud Lamp
+Interactive Arduino cloud lamp with programmable LED lighting: https://youtube.com/shorts/52P8XduLB4Y?feature=share
 
 This project is an interactive ambient lamp built with an Arduino Uno and an addressable LED strip. The goal was to combine simple electronics with a physical object to create a lighting piece that responds to user interaction.
 
